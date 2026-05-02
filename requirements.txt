@@ -1,0 +1,6 @@
+upstox-python-sdk
+pandas
+plotext
+rich
+requests
+pillow
